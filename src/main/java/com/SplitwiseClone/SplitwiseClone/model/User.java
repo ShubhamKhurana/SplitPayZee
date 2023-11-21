@@ -17,6 +17,6 @@ public class User extends BaseModel{
     private String email;
     private String phoneNumber;
 
-    @ManyToMany
+    @ManyToMany(mappedBy = "users")
     private List<Group> groups;
 }

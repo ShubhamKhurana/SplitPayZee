@@ -1,4 +1,4 @@
-package com.SplitwiseClone.SplitwiseClone.constroller;
+package com.SplitwiseClone.SplitwiseClone.controller;
 
 import com.SplitwiseClone.SplitwiseClone.DTO.TransactionDTO;
 import com.SplitwiseClone.SplitwiseClone.exception.GroupNotFoundException;
